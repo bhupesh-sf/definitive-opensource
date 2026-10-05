@@ -4,12 +4,15 @@
 - WebUI Forge
 - GPT crawler
 - GPT4ALL
-- CasaOS
+- Plandex
 - Ice
 - zsh-autosuggestions
 - Quill
+- Second Me
 - GitHub Desktop - The Linux Fork
+- CodiMD
 - fullmoon
+- STORM
 - Phoenix
 - A/B Street
 - percollate
@@ -18,9 +21,10 @@
 - File Browser
 - Airweave
 - Papermerge DMS
+- Atuin Desktop
 
 ## No Longer Exists (404):
-_None_
+- Glass
 
 ## Rebranded / Moved:
 - LibreChat (Moved to: https://github.com/LibreChat-AI/LibreChat)
