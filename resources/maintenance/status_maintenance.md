@@ -19,9 +19,11 @@
 
 ## Archived:
 - File Browser
+- windsurf.vim
 - Airweave
 - Papermerge DMS
 - Atuin Desktop
+- Hex
 
 ## No Longer Exists (404):
 - Glass
