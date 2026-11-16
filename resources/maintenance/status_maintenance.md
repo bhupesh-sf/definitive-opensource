@@ -23,6 +23,7 @@
 ## Archived:
 - File Browser
 - windsurf.vim
+- UI-TARS
 - Airweave
 - Soft Serve
 - Papermerge DMS
@@ -38,6 +39,7 @@
 - Pelican Panel (Moved to: https://github.com/pelican/panel)
 - Spotube (Moved to: https://github.com/team-spotube/spotube)
 - Supersonic (Moved to: https://github.com/supersonic-app/supersonic)
+- Homer (Moved to: https://github.com/homer-dashboard/homer)
 - WSL Manager (Moved to: https://github.com/bostrot/wslmanager)
 - Omarchy (Moved to: https://github.com/omacom/omarchy)
 - WinBoat (Moved to: https://github.com/winboat-org/winboat)
