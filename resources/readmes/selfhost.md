@@ -368,7 +368,7 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Auto1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | `SelfHost` | **165.4k** |
-| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. | `SelfHost` | **148.5k** |
+| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. | `SelfHost` | **148.6k** |
 | [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | `SelfHost` | **54k** |
 | [InvokeAI](https://github.com/invoke-ai/InvokeAI) | Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry-leading application interface, and serves as the foundation for multiple commercial products. | `Cross` `SelfHost` | **29.2k** |
 | [SD.Next](https://github.com/vladmandic/sdnext) | SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing | `SelfHost` | **7.4k** |
@@ -378,7 +378,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [mem0](https://github.com/mem0ai/mem0) `Manual` | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. | `SelfHost` | **69.4k** |
+| [mem0](https://github.com/mem0ai/mem0) `Manual` | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. | `SelfHost` | **69.5k** |
 
 ### All In One
 
@@ -386,7 +386,7 @@
 | --- | --- | --- | --- |
 | [ClaraVerse](https://github.com/claraverse-space/ClaraVerse) | Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps. | `Cross` `SelfHost` | **3.9k** |
 | [Khoj AI](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. | `Web (Cloud)` `SelfHost` | **38.2k** |
-| [LobeHub](https://github.com/lobehub/lobehub) | 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week. | `Web (Cloud)` `SelfHost` | **86.1k** |
+| [LobeHub](https://github.com/lobehub/lobehub) | 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week. | `Web (Cloud)` `SelfHost` | **86.2k** |
 
 ### Assistant
 
@@ -403,7 +403,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Firecrawl](https://github.com/firecrawl/firecrawl) | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. | `Web (Cloud)` `SelfHost` | **208.9k** |
+| [Firecrawl](https://github.com/firecrawl/firecrawl) | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. | `Web (Cloud)` `SelfHost` | **210k** |
 | [GPT crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | `SelfHost` | **22.4k** |
 | [Unstract](https://github.com/Zipstack/unstract) | LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows | `MacOS` `Linux` `SelfHost` | **7.5k** |
 
@@ -413,23 +413,23 @@
 | --- | --- | --- | --- |
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active | `SelfHost` | **47.5k** |
 | [Onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | `SelfHost` | **33.5k** |
-| [Open WebUI](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | `SelfHost` | **159.4k** |
-| [SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. | `SelfHost` | **36k** |
-| [SurfSense](https://github.com/MODSetter/SurfSense) | Air-gapped, private AI for confidential documents. Open-source NotebookLM alternative that runs on your computer. Join our Discord: https://discord.gg/ejRNvftDp9 | `SelfHost` | **16.9k** |
-| [TextGen](https://github.com/oobabooga/textgen) | Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private. | `SelfHost` | **47.7k** |
+| [Open WebUI](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | `SelfHost` | **159.6k** |
+| [SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. | `SelfHost` | **36.1k** |
+| [SurfSense](https://github.com/MODSetter/SurfSense) | Air-gapped, private AI for confidential documents. Open-source NotebookLM alternative that runs on your computer. Join our Discord: https://discord.gg/ejRNvftDp9 | `SelfHost` | **17k** |
+| [TextGen](https://github.com/oobabooga/textgen) | Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private. | `SelfHost` | **47.8k** |
 
 ### Manager
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [KoboldCpp](https://github.com/LostRuins/koboldcpp) | KoboldCpp - Run GGUF AI models locally with a KoboldAI UI. One File. Zero Install. | `Cross` `SelfHost` | **12.4k** |
-| [Ollama](https://github.com/ollama/ollama) 🌍`CLI` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | `Cross` `SelfHost` | **188k** |
+| [Ollama](https://github.com/ollama/ollama) 🌍`CLI` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | `Cross` `SelfHost` | **188.1k** |
 
 ### Model Tools
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [GPT-SoVITS-WebUI](https://github.com/RVC-Boss/GPT-SoVITS) `Manual` | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) | `Cross` `SelfHost` | **16** |
+| [GPT-SoVITS-WebUI](https://github.com/RVC-Boss/GPT-SoVITS) `Manual` | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) | `Cross` `SelfHost` | **24** |
 | [LLaMa-Factory](https://github.com/hiyouga/LlamaFactory) `CLI+` `Manual` | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | `SelfHost` | **76.3k** |
 | [Opik](https://github.com/comet-ml/opik) | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. | `SelfHost` `Web (Cloud)` | **23.5k** |
 | [Second Me](https://github.com/mindverse/Second-Me) | Train your AI self, amplify you, bridge the world | `SelfHost` `Web (Cloud)` | **15.7k** |
@@ -462,7 +462,7 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Mattermost](https://github.com/mattermost/mattermost) | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. | `SelfHost` | **39.7k** |
-| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Interoperable by design. Governed by you. Open-source, secure platform for messaging, voice, video and governed AI, built for defense and government. | `SelfHost` `Web (Cloud)` | **46.5k** |
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Interoperable by design. Governed by you. Open-source, secure platform for messaging, voice, video and governed AI, built for defense and government. | `SelfHost` `Web (Cloud)` | **46.6k** |
 | [Zulip](https://github.com/zulip/zulip) | Zulip server and web application. Open-source team chat that helps teams stay productive and focused. | `SelfHost` `Web (Cloud)` | **26.3k** |
 
 ### Mail
@@ -511,14 +511,14 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming | `SelfHost` `Web (Cloud)` | **71.5k** |
-| [OpenHands](https://github.com/OpenHands/OpenHands) | 🙌 OpenHands: AI-Driven Development | `Cross` `SelfHost` | **94.2k** |
+| [OpenHands](https://github.com/OpenHands/OpenHands) | 🙌 OpenHands: AI-Driven Development | `Cross` `SelfHost` | **94.3k** |
 | [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | `SelfHost` `VSCode` `JetBrains` | **33.9k** |
 
 ### Code Editor
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [code-server](https://github.com/coder/code-server) | VS Code in the browser | `SelfHost` | **79.9k** |
+| [code-server](https://github.com/coder/code-server) | VS Code in the browser | `SelfHost` | **80k** |
 
 ### Dev Tools
 
@@ -541,7 +541,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD | `SelfHost` | **59.2k** |
+| [Gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD | `SelfHost` | **59.3k** |
 | [GitLab](https://github.com/gitlabhq/gitlabhq) | GitLab CE Mirror - Please open new issues in our issue tracker on GitLab.com | `SelfHost` `Web (Cloud)` | **24.6k** |
 | [Gogs](https://github.com/gogs/gogs) | The painless way to host your own Git service | `SelfHost` | **48k** |
 
@@ -593,7 +593,7 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [FreshRSS](https://github.com/FreshRSS/FreshRSS) | A free, self-hostable news aggregator… | `SelfHost` | **16.7k** |
-| [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | `SelfHost` | **47.2k** |
+| [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | `SelfHost` | **47.4k** |
 
 ### RSS Reader
 
@@ -627,7 +627,7 @@
 | --- | --- | --- | --- |
 | [Morphic](https://github.com/miurla/morphic) | An AI-powered search engine with a generative UI | `SelfHost` `Web (Cloud)` | **9.4k** |
 | [Scira](https://github.com/zaidmukaddam/scira) | Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! | `SelfHost` `Web (Cloud)` | **12k** |
-| [SearXNG](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. | `SelfHost` | **39.8k** |
+| [SearXNG](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. | `SelfHost` | **39.9k** |
 | [Vane](https://github.com/ItzCrazyKns/Vane) | Vane is an AI-powered answering engine. | `SelfHost` | **38.3k** |
 | [YaCy](https://github.com/yacy/yacy_search_server) | Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance | `SelfHost` | **4.1k** |
 
@@ -649,7 +649,7 @@
 | --- | --- | --- | --- |
 | [Feishin](https://github.com/jeffvli/feishin) | A modern self-hosted music player. | `Cross` `SelfHost` | **10.5k** |
 | [gonic](https://github.com/sentriz/gonic) `Manual` | music streaming server / free-software subsonic server API implementation | `Cross` `SelfHost` | **2.7k** |
-| [Navidrome](https://github.com/navidrome/navidrome) | 🎧 Your Personal Streaming Service  | `Cross` `SelfHost` | **24.9k** |
+| [Navidrome](https://github.com/navidrome/navidrome) | 🎧 Your Personal Streaming Service  | `Cross` `SelfHost` | **25k** |
 | [Swing Music](https://github.com/swingmx/swingmusic) |  Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music. | `Cross` `SelfHost` | **2.1k** |
 
 ### CAD
@@ -772,19 +772,19 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Documenso](https://github.com/documenso/documenso) | The Open Source DocuSign Alternative. | `SelfHost` `Web (Cloud)` | **15.9k** |
-| [DocuSeal](https://github.com/docusealco/docuseal) | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ | `SelfHost` | **19.1k** |
+| [DocuSeal](https://github.com/docusealco/docuseal) | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ | `SelfHost` | **19.2k** |
 | [OpenSign](https://github.com/OpenSignLabs/OpenSign) | 🔥 The free & Open Source DocuSign alternative | `SelfHost` `Web (Cloud)` | **7.3k** |
-| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | `MacOS` `Windows` `SelfHost` | **97.4k** |
+| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | `MacOS` `Windows` `SelfHost` | **97.5k** |
 
 ### Finance
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Actual](https://github.com/actualbudget/actual) | A local-first personal finance app | `SelfHost` `Cross` | **30.4k** |
+| [Actual](https://github.com/actualbudget/actual) | A local-first personal finance app | `SelfHost` `Cross` | **30.5k** |
 | [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) | ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use. | `SelfHost` | **6.1k** |
 | [Firefly III](https://github.com/firefly-iii/firefly-iii) | Firefly III: a personal finances manager | `SelfHost` | **25.3k** |
 | [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍 | `SelfHost` | **9.8k** |
-| [Sure](https://github.com/we-promise/sure) | The personal finance app for everyone (by everyone) | `SelfHost` | **17.8k** |
+| [Sure](https://github.com/we-promise/sure) | The personal finance app for everyone (by everyone) | `SelfHost` | **17.9k** |
 | [Wallos](https://github.com/ellite/Wallos) | Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money. | `SelfHost` | **8.9k** |
 
 ### Knowledge Base
@@ -800,7 +800,7 @@
 | [Huly](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) | `SelfHost` `Web (Cloud)` | **28.2k** |
 | [Leantime](https://github.com/Leantime/leantime) | Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind. | `SelfHost` | **12.1k** |
 | [OpenProject](https://github.com/opf/openproject) | OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub | `SelfHost` | **17.7k** |
-| [Plane](https://github.com/makeplane/plane) | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. | `SelfHost` `Web (Cloud)` | **63.1k** |
+| [Plane](https://github.com/makeplane/plane) | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. | `SelfHost` `Web (Cloud)` | **63.2k** |
 | [Worklenz](https://github.com/Worklenz/worklenz) | All in one project management tool for efficient teams | `Web (Cloud)` `SelfHost` | **3.3k** |
 
 ### Task Management
@@ -838,7 +838,7 @@
 | --- | --- | --- | --- |
 | [2FAuth](https://github.com/Bubka/2FAuth) | A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes | `SelfHost` | **4.2k** |
 | [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready. | `SelfHost` | **29.7k** |
-| [Zitadel](https://github.com/zitadel/zitadel)  | ZITADEL - Identity infrastructure, simplified for you. | `SelfHost` | **15.6k** |
+| [Zitadel](https://github.com/zitadel/zitadel)  | ZITADEL - Identity infrastructure, simplified for you. | `SelfHost` | **15.7k** |
 
 ### Firewall
 
@@ -851,17 +851,17 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Infiscal](https://github.com/Infisical/infisical) `Manual` `Web UI` | Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents. | `Cross` `Web (Cloud)` `SelfHost` | **30.7k** |
+| [Infiscal](https://github.com/Infisical/infisical) `Manual` `Web UI` | Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents. | `Cross` `Web (Cloud)` `SelfHost` | **30.8k** |
 | [Passbolt](https://github.com/passbolt/passbolt_api) `CLI+` | Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! | `Cross` `SelfHost` `Chromium` `Firefox` | **6.2k** |
-| [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | `SelfHost` | **71.3k** |
+| [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | `SelfHost` | **71.4k** |
 
 ### VPN
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Gluetun](https://github.com/passteque/gluetun) `CLI` | VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. | `SelfHost` | **16.2k** |
-| [Headplane](https://github.com/tale/headplane) | A feature-complete Web UI for Headscale | `SelfHost` | **3.3k** |
-| [headscale](https://github.com/juanfont/headscale) `CLI+` | An open source, self-hosted implementation of the Tailscale control server | `SelfHost` | **46k** |
+| [Headplane](https://github.com/tale/headplane) | A feature-complete Web UI for Headscale | `SelfHost` | **3.4k** |
+| [headscale](https://github.com/juanfont/headscale) `CLI+` | An open source, self-hosted implementation of the Tailscale control server | `SelfHost` | **46.1k** |
 | [Netmaker](https://github.com/gravitl/netmaker) | Netmaker is a WireGuard-powered Zero Trust networking platform for building fast, secure, and scalable virtual networks across clouds, devices, and infrastructure. | `SelfHost` `Web (Cloud)` | **11.9k** |
 | [Tailscale](https://github.com/tailscale/tailscale) | The easiest, most secure way to use WireGuard and 2FA. | `SelfHost` | **39.6k** |
 | [WireGuard Easy](https://github.com/wg-easy/wg-easy) | The easiest way to run WireGuard VPN + Web-based Admin UI. | `SelfHost` | **27.6k** |
@@ -873,12 +873,12 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [autobrr](https://github.com/autobrr/autobrr) | Modern, easy to use download automation for torrents and usenet. | `Cross` `SelfHost` | **3.2k** |
-| [Bazarr](https://github.com/morpheus65535/bazarr) | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you. | `Cross` `SelfHost` | **4.4k** |
+| [Bazarr](https://github.com/morpheus65535/bazarr) | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you. | `Cross` `SelfHost` | **4.5k** |
 | [Lidarr](https://github.com/Lidarr/Lidarr) | Looks and smells like Sonarr but made for music. | `Cross` `SelfHost` | **5.9k** |
 | [Prowlarr](https://github.com/Prowlarr/Prowlarr) | Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers. | `Cross` `SelfHost` | **7.7k** |
 | [Radarr](https://github.com/Radarr/Radarr) | Movie organizer/manager for usenet and torrent users. | `Cross` `SelfHost` | **14.9k** |
 | [seerr](https://github.com/seerr-team/seerr) | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. | `SelfHost` | **13.3k** |
-| [Sonarr](https://github.com/Sonarr/Sonarr) | Smart PVR for newsgroup and bittorrent users. | `Cross` `SelfHost` | **17.8k** |
+| [Sonarr](https://github.com/Sonarr/Sonarr) | Smart PVR for newsgroup and bittorrent users. | `Cross` `SelfHost` | **17.9k** |
 
 ### Dashboard
 
@@ -889,7 +889,7 @@
 | [Glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place | `SelfHost` | **38.4k** |
 | [Heimdall](https://github.com/linuxserver/Heimdall) | An Application dashboard and launcher | `SelfHost` | **9.4k** |
 | [homepage](https://github.com/gethomepage/homepage) | A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. | `SelfHost` | **33.8k** |
-| [Homer](https://github.com/bastienwirtz/homer) | A very simple static homepage for your server. | `SelfHost` | **11.7k** |
+| [Homer](https://github.com/bastienwirtz/homer) | A very simple static homepage for your server. | `SelfHost` | **11.8k** |
 
 ### Home Automation
 
@@ -906,7 +906,7 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Cosmos](https://github.com/azukaar/Cosmos-Server) | ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot) | `SelfHost` | **6.2k** |
-| [Runtipi](https://github.com/runtipi/runtipi) | Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ | `SelfHost` | **9.7k** |
+| [Runtipi](https://github.com/runtipi/runtipi) | Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ | `SelfHost` | **9.8k** |
 | [Sandstorm](https://github.com/sandstorm-io/sandstorm) | Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | `SelfHost` | **7.1k** |
 
 ### Media Management
@@ -917,8 +917,8 @@
 | [Calibre-Web](https://github.com/janeczku/calibre-web) | :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database | `SelfHost` | **18.6k** |
 | [Calibre-Web Automated](https://github.com/crocodilestick/Calibre-Web-Automated) | Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up! | `SelfHost` | **6.7k** |
 | [Grimmory](https://github.com/grimmory-tools/grimmory) | A self-hosted library for your ebooks, comics, and audiobooks | `SelfHost` | **4.8k** |
-| [Immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | `SelfHost` | **120k** |
-| [Jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System - Server Backend & API | `SelfHost` | **59.7k** |
+| [Immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | `SelfHost` | **120.1k** |
+| [Jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System - Server Backend & API | `SelfHost` | **59.8k** |
 | [Kavita](https://github.com/Kareadita/Kavita) | Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. | `SelfHost` | **12.2k** |
 | [Kodi](https://github.com/xbmc/xbmc) | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. | `Cross` `SelfHost` | **21.5k** |
 | [LibrePhotos](https://github.com/LibrePhotos/librephotos) | A self-hosted open source photo management service.  | `SelfHost` | **8.2k** |
@@ -1096,8 +1096,8 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Cronicle](https://github.com/jhuckaby/Cronicle) `CLI+` | A simple, distributed task scheduler and runner with a web based UI. | `Cross` `SelfHost` | **5.9k** |
-| [Healthchecks](https://github.com/healthchecks/healthchecks) | Open-source cron job and background task monitoring service, written in Python & Django | `SelfHost` `Web (Cloud)` | **10.5k** |
-| [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | `Web (Cloud)` `SelfHost` | **212k** |
+| [Healthchecks](https://github.com/healthchecks/healthchecks) | Open-source cron job and background task monitoring service, written in Python & Django | `SelfHost` `Web (Cloud)` | **10.6k** |
+| [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | `Web (Cloud)` `SelfHost` | **212.1k** |
 | [Node-RED](https://github.com/node-red/node-red) `Manual` | Low-code programming for event-driven applications | `SelfHost` | **23.9k** |
 
 ### Cleaner
@@ -1140,7 +1140,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [SFTPGo](https://github.com/drakkan/sftpgo) | Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob | `SelfHost` | **12.8k** |
+| [SFTPGo](https://github.com/drakkan/sftpgo) | Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob | `SelfHost` | **12.9k** |
 | [zipline](https://github.com/diced/zipline) | A ShareX/file upload server that is easy to use, packed with features, and with an easy setup! | `SelfHost` | **3.5k** |
 
 ### Keyboard Manager
